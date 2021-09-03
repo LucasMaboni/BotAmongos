@@ -1,5 +1,5 @@
-# BotAmongos
-Bot para silenciar canal de voz no discord, utilizado em servidores médio, nunca utilizado em grandes servidores.
+# BotAmongos (AmongUs)
+Bot para silenciar canal de voz no discord, utilizado em servidores privados/pequenos.
 
 Criei um bot para uso privado no seu servidor.
 Q: O que ele faz?
